@@ -11,56 +11,58 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 
 ##Websites:
 
-* [Official website](http://www.telerik.com/kendo-ui)
-* [Build Responsive Apps Fast With Kendo UI](http://www.telerik.com/kendo-ui/responsive-features)
-* [Exporting Content with Kendo UI](http://www.telerik.com/kendo-ui/exporting-web-content)
-* [AngularJS & Kendo UI](http://www.telerik.com/kendo-ui/angularjs-and-kendo-ui-framework-integration)
+* [Official website](http://www.telerik.com/kendo-ui) - Telerik product page for Kendo UI.
+* [Build Responsive Apps Fast With Kendo UI](http://www.telerik.com/kendo-ui/responsive-features) - Information about using Kendo UI to build responsive applications.
+* [Exporting Content with Kendo UI](http://www.telerik.com/kendo-ui/exporting-web-content) - Information about using Kendo UI to save and export pdf, png, and xls files. 
+* [AngularJS & Kendo UI](http://www.telerik.com/kendo-ui/angularjs-and-kendo-ui-framework-integration) - Information about how Kendo UI integrates with AngularJS.
 
 ## Examples:
 
-* [Widget Demos](http://demos.telerik.com/kendo-ui/)
-* [Mobile Widget Demos](http://demos.telerik.com/kendo-ui/m/index)
-* [Kendo UI ♥ Bootstrap](http://demos.telerik.com/kendo-ui/bootstrap/) and [code](https://github.com/telerik/kendo-bootstrap-demo)
-* [Diagram Tool](http://demos.telerik.com/kendo-ui/html5-diagram-sample-app)
-* [Northwind](http://demos.telerik.com/aspnet-mvc/html5-dashboard-sample-app/Home/TeamEfficiency) and [code](https://github.com/telerik/kendoui-northwind-dashboard)
-* [Mobile sushi app](http://demos.telerik.com/kendo-ui/mobile-apps/sushi) and [code](https://github.com/telerik/kendo-mobile-sushi)
+* [Widget Demos](http://demos.telerik.com/kendo-ui/) - Tons of demos for desktop and dataviz widgets.
+* [Mobile Widget Demos](http://demos.telerik.com/kendo-ui/m/index) - A mobile application demoing each mobile widget.
+* [Kendo UI ♥ Bootstrap](http://demos.telerik.com/kendo-ui/bootstrap/) and [code](https://github.com/telerik/kendo-bootstrap-demo) - Demonstration of using Kendo UI Bootstrap theme.
+* [Diagram Tool](http://demos.telerik.com/kendo-ui/html5-diagram-sample-app) - A diagramming application demonstration Kendo UI widgets.
+* [Northwind](http://demos.telerik.com/aspnet-mvc/html5-dashboard-sample-app/Home/TeamEfficiency) and [code](https://github.com/telerik/kendoui-northwind-dashboard) - An dashboard application demonstrating Kendo UI widgets.
+* [Mobile sushi app](http://demos.telerik.com/kendo-ui/mobile-apps/sushi) and [code](https://github.com/telerik/kendo-mobile-sushi) - A demo mobile application for ordering sushi from a phone or tablet.
 
 ## Documentation & API reference:
 
-* [Docs](http://docs.telerik.com/kendo-ui/introduction)
-* [API ref](http://docs.telerik.com/kendo-ui/api/javascript/kendo)
+* [Docs](http://docs.telerik.com/kendo-ui/introduction) - Official documentation on Kendo UI.
+* [API ref](http://docs.telerik.com/kendo-ui/api/javascript/kendo) - Official API reference.
 
 ## Tools:
 
-* [Chrome DevTools Inspector](https://chrome.google.com/webstore/detail/telerik-kendo-ui-chrome-i/npcmgpnfknjmndbbakdhchgibaajnlpe?hl=en)
-* [Kendo UI CDN](http://docs.telerik.com/kendo-ui/intro/installation/cdn-service)
-* [Kendo UI Dojo](http://dojo.telerik.com/)
-* [Kendo UI ThemeBuilder](http://www.kendouimobileguide.com/)
-* [Kendo UI Mobile ThemeBuilder](http://demos.telerik.com/kendo-ui/mobilethemebuilder)
+* [Chrome DevTools Inspector](https://chrome.google.com/webstore/detail/telerik-kendo-ui-chrome-i/npcmgpnfknjmndbbakdhchgibaajnlpe?hl=en) - The Kendo UI Chrome Inspector is a Chrome Developer Tools Extension allowing you to inspect, debug and troubleshoot pages hosting Kendo UI widgets and framework components.
+* [Kendo UI CDN](http://docs.telerik.com/kendo-ui/intro/installation/cdn-service) - Hosted versions of Kendo UI on Amazon CloudFront.
+* [Kendo UI Dojo](http://dojo.telerik.com/) - A jsfiddle/jsbin tool specifically created for Kendo UI code sharing and authoring.
+* [Kendo UI ThemeBuilder](http://demos.telerik.com/kendo-ui/themebuilder/) - Create a customize theme for Kendo UI.
+* [Kendo UI Mobile ThemeBuilder](http://demos.telerik.com/kendo-ui/mobilethemebuilder) - Create a customize theme specifically for Kendo UI mobile widgets.
 
 ## Books:
 
-* [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/)
-* [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/)
+* [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - Everything you need to know to get started with Kendo UI. 
+* [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/) - An opinionated guide prescribing the ideal usage of Kendo UI mobile widgets and application tools for building web platform sites or applications to be run on phones and tablets.
 
 ## Webinar:
 
-* [Kendo UI Release Webinars](https://www.youtube.com/watch?v=Xuo2hWQRLsA&list=PLLGlTD7u3kMrPNZM20ffdiQhwI6ni7TC8)
+* [Kendo UI Release Webinars](https://www.youtube.com/watch?v=Xuo2hWQRLsA&list=PLLGlTD7u3kMrPNZM20ffdiQhwI6ni7TC8) - Webinars released three times a year focusing on Kendo UI often focusing on updates.
 
 ## Talks:
 
-* [How to Build Great HTML 5 and JavaScript Websites and Apps Using Telerik's Kendo UI - John Bristowe](https://www.youtube.com/watch?v=ez6kvOf4X-4)
-* [AngularJS and Kendo UI by Jeremy Likness](https://www.youtube.com/watch?v=fWB38DYbLM0)
+* [Advanced Kendo UI (Session Recording)](https://www.youtube.com/watch?v=z_JJerobnFA) - Do you feel pretty comfortable with Kendo UI framework? Are your jQuery skills pretty top-notch? Good. Because you're going to need them.
+* [How to Build Great HTML 5 and JavaScript Websites and Apps Using Telerik's Kendo UI - John Bristowe](https://www.youtube.com/watch?v=ez6kvOf4X-4) - In this session, Telerik's top Evangelist John Bristowe presented to our Boot Campers the 'ins and outs' of Kendo UI -- a powerful framework for building sites and apps with pure JavaScript and HTML5.
+* [AngularJS and Kendo UI by Jeremy Likness](https://www.youtube.com/watch?v=fWB38DYbLM0) - See how the frameworks combine seamlessly to facilitate rapid delivery of high-quality data applications with advanced widgets and enable large teams to develop enterprise scale web applications.
+* [jQuery UI vs KendoUI with Burke Holland and TJ VanToll](https://devchat.tv/js-jabber/116-jsj-jquery-ui-vs-kendoui-with-burke-holland-and-tj-vantoll) - Interview on JavaScript Jabber Podcast.
 
 ## Reporting bugs & requesting new features:
 
-* [Telerik Kendo UI Feedback](http://kendoui-feedback.telerik.com/forums/127393-telerik-kendo-ui-feedback)
-* [Kendo UI Core Github Issues](https://github.com/telerik/kendo-ui-core/issues)
+* [Telerik Kendo UI Feedback](http://kendoui-feedback.telerik.com/forums/127393-telerik-kendo-ui-feedback) - Give the Kendo UI team feedback and add or vote for new features.
+* [Kendo UI Core Github Issues](https://github.com/telerik/kendo-ui-core/issues) - Open an issue for Kendo UI Core on github.
 
 ## News:
 
-* [What's New](http://www.telerik.com/support/whats-new/kendo-ui)
-* [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history)
+* [What's New](http://www.telerik.com/support/whats-new/kendo-ui) - Overview of what is new with Kendo UI.
+* [Release History](http://www.telerik.com/support/whats-new/kendo-ui/release-history) - release notes.
 * [Kendo UI Blog](http://www.telerik.com/blogs/kendo-ui)
 
 ## Community:
@@ -71,5 +73,5 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 
 ## Kendo UI Core Source:
 
-* [Kendo UI Core](https://github.com/telerik/kendo-ui-core)
+* [Kendo UI Core](https://github.com/telerik/kendo-ui-core) - Kendo UI Core is the free and open-source version of Kendo UI that provides access to the web's best UI widgets and key framework features, essential for developing great experiences for the web and mobile.
 
