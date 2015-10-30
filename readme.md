@@ -89,3 +89,9 @@ Kendo UI maintains 2 bower packages, namely Kendo UI Core and Kendo UI Professio
 
 * [Kendo UI Core](https://github.com/telerik/kendo-ui-core) - Kendo UI Core is the free and open-source version of Kendo UI that provides access to the web's best UI widgets and key framework features, essential for developing great experiences for the web and mobile.
 
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
