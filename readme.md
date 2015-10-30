@@ -18,10 +18,11 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 
 ##Kendo UI Packages:
 
-Kendo UI maintains 2 bower packages, namely Kendo UI Core and Kendo UI Professional. Official releases, service packs and internal builds are uploaded to both of them.
+Kendo UI officially maintains 2 bower packages, Kendo UI Core and Kendo UI Professional.
 
 * [Kendo UI core bower package](https://github.com/kendo-labs/bower-kendo-ui)
 * [Kendo UI professional bower package](http://docs.telerik.com/kendo-ui/intro/installation/bower-install#option-2-install-kendo-ui-professional-bower-package)
+* [Kendo UI core meteor package](https://atmospherejs.com/telerik) - Install Kendo UI and a specific theme into your meteor application.
 
 ## Examples:
 
