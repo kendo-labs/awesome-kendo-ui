@@ -71,7 +71,7 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 * [Kendo UI Twitter Account](https://twitter.com/KendoUI)
 * [Kendo UI Facebook](https://www.facebook.com/KendoUI)
 
-## Kendo UI Core Source:
+## Kendo UI Core Source Code:
 
 * [Kendo UI Core](https://github.com/telerik/kendo-ui-core) - Kendo UI Core is the free and open-source version of Kendo UI that provides access to the web's best UI widgets and key framework features, essential for developing great experiences for the web and mobile.
 
