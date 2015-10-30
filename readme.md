@@ -16,6 +16,13 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 * [Exporting Content with Kendo UI](http://www.telerik.com/kendo-ui/exporting-web-content) - Information about using Kendo UI to save and export pdf, png, and xls files. 
 * [AngularJS & Kendo UI](http://www.telerik.com/kendo-ui/angularjs-and-kendo-ui-framework-integration) - Information about how Kendo UI integrates with AngularJS.
 
+##Kendo UI Packages:
+
+Kendo UI maintains 2 bower packages, namely Kendo UI Core and Kendo UI Professional. Official releases, service packs and internal builds are uploaded to both of them.
+
+* [Kendo UI core bower package](https://github.com/kendo-labs/bower-kendo-ui)
+* [Kendo UI professional bower package](http://docs.telerik.com/kendo-ui/intro/installation/bower-install#option-2-install-kendo-ui-professional-bower-package)
+
 ## Examples:
 
 * [Widget Demos](http://demos.telerik.com/kendo-ui/) - Tons of demos for desktop and dataviz widgets.
@@ -43,7 +50,12 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - Everything you need to know to get started with Kendo UI. 
 * [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/) - An opinionated guide prescribing the ideal usage of Kendo UI mobile widgets and application tools for building web platform sites or applications to be run on phones and tablets.
 
-## Webinar:
+## Tutorials:
+
+* [Kendo UI DataSource Enlightenment](http://www.telerik.com/blogs/kendo-ui-datasource-enlightenment) - An effort to explain and provide a comprehensive example of a DataSource instance to alleviate any obstacles developers might encounter when configuring a DataSource instance for the first time.
+* [Using Kendo UI in a Meteor Application](http://www.telerik.com/blogs/using-kendo-ui-in-a-meteor-application) - Instructions  for getting Kendo UI to work with Meteor.
+
+## Webinars:
 
 * [Kendo UI Release Webinars](https://www.youtube.com/watch?v=Xuo2hWQRLsA&list=PLLGlTD7u3kMrPNZM20ffdiQhwI6ni7TC8) - Webinars released three times a year focusing on Kendo UI often focusing on updates.
 
