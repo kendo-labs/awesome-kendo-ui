@@ -49,6 +49,7 @@ Kendo UI maintains 2 bower packages, namely Kendo UI Core and Kendo UI Professio
 
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/) - Everything you need to know to get started with Kendo UI. 
 * [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/) - An opinionated guide prescribing the ideal usage of Kendo UI mobile widgets and application tools for building web platform sites or applications to be run on phones and tablets.
+* [Kendo UI - Nuts and Bolts](http://old-store.falafel.com/store/training-guides/kendo-ui-nuts-and-bolts) - The book is intended for web developers and designers that want to use the Kendo UI framework and widgets to build responsive applications with HTML5, CSS and JavaScript/jQuery.
 
 ## Tutorials:
 
