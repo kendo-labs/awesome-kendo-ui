@@ -43,10 +43,6 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 * [Kendo UI Getting Started](http://codylindley.github.io/the-kendo-ui-book/)
 * [Kendo UI Mobile Guide](http://www.kendouimobileguide.com/)
 
-## Whitepapers:
-
-* [The HTML5 vs. Native Debate is Over & the Winner is…]()
-
 ## Webinar:
 
 * [Kendo UI Release Webinars](https://www.youtube.com/watch?v=Xuo2hWQRLsA&list=PLLGlTD7u3kMrPNZM20ffdiQhwI6ni7TC8)
