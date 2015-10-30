@@ -17,17 +17,21 @@ While Kendo UI makes a basic offering of tools for building JS applications ([MV
 
 Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers on touch devices and in WebViews used in native application development.
 
+##Website(s)
+
+* [Official website](http://www.telerik.com/kendo-ui)
+* [Build Responsive Apps Fast With Kendo UI](http://www.telerik.com/kendo-ui/responsive-features)
+* [Exporting Content with Kendo UI](http://www.telerik.com/kendo-ui/exporting-web-content)
+* [AngularJS & Kendo UI](http://www.telerik.com/kendo-ui/angularjs-and-kendo-ui-framework-integration)
+
 ## Examples:
 
 * [Widget Demos](http://demos.telerik.com/kendo-ui/)
+* [Mobile Widget Demos](http://demos.telerik.com/kendo-ui/m/index)
 * [Kendo UI ♥ Bootstrap](http://demos.telerik.com/kendo-ui/bootstrap/) and [code](https://github.com/telerik/kendo-bootstrap-demo)
 * [Diagram Tool](http://demos.telerik.com/kendo-ui/html5-diagram-sample-app)
 * [Northwind](http://demos.telerik.com/aspnet-mvc/html5-dashboard-sample-app/Home/TeamEfficiency) and [code](https://github.com/telerik/kendoui-northwind-dashboard)
 * [Mobile sushi app](http://demos.telerik.com/kendo-ui/mobile-apps/sushi) and [code](https://github.com/telerik/kendo-mobile-sushi)
-
-## Kendo UI Core Source:
-
-* [Kendo UI Core](https://github.com/telerik/kendo-ui-core)
 
 ## Documentation & API reference:
 
@@ -72,4 +76,8 @@ Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers 
 * [Kendo UI Forum](http://www.telerik.com/forums/kendo-ui)
 * [Kendo UI Twitter Account](https://twitter.com/KendoUI)
 * [Kendo UI Facebook](https://www.facebook.com/KendoUI)
+
+## Kendo UI Core Source:
+
+* [Kendo UI Core](https://github.com/telerik/kendo-ui-core)
 
