@@ -54,6 +54,7 @@ Kendo UI maintains 2 bower packages, namely Kendo UI Core and Kendo UI Professio
 
 * [Kendo UI DataSource Enlightenment](http://www.telerik.com/blogs/kendo-ui-datasource-enlightenment) - An effort to explain and provide a comprehensive example of a DataSource instance to alleviate any obstacles developers might encounter when configuring a DataSource instance for the first time.
 * [Using Kendo UI in a Meteor Application](http://www.telerik.com/blogs/using-kendo-ui-in-a-meteor-application) - Instructions  for getting Kendo UI to work with Meteor.
+* [Kendo UI at Any Screen Size](http://www.telerik.com/blogs/kendo-ui-at-any-screen-size) - The purpose of this article is to reveal how Kendo UI can aid developers when developing for multiple screen sizes.
 
 ## Webinars:
 
