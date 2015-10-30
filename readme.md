@@ -17,7 +17,7 @@ While Kendo UI makes a basic offering of tools for building JS applications ([MV
 
 Kendo UI is designed to run on laptop/desktop web browsers, as well as browsers on touch devices and in WebViews used in native application development.
 
-##Website(s)
+##Websites:
 
 * [Official website](http://www.telerik.com/kendo-ui)
 * [Build Responsive Apps Fast With Kendo UI](http://www.telerik.com/kendo-ui/responsive-features)
