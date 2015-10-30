@@ -57,6 +57,6 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Community:
 
 * [Kendo UI Forum](http://www.telerik.com/forums/kendo-ui)
-* [Kendo UI Twitter Account](https://twitter.com/emberjstalk)
+* [Kendo UI Twitter Account](https://twitter.com/KendoUI)
 * [Kendo UI Facebook](https://www.facebook.com/KendoUI)
 
